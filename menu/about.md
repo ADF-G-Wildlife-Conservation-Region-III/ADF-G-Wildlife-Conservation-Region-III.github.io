@@ -8,7 +8,7 @@ This site will help you navigate the different data analysis tools and resources
 
 ### Moose
 
-[Bandaid GSPE tool]([{{ site.github.url }}{% post_url 2015-10-10-getting-started %}](http://rstudio-connect.adfg.alaska.gov/content/52f7e391-4a63-40bd-80ed-75d862544b92/)): a quick fix to the broken Winfonet moosepop tool. Uploaded csv's must be in correct Winfonet format.
+[Bandaid GSPE tool](http://rstudio-connect.adfg.alaska.gov/content/52f7e391-4a63-40bd-80ed-75d862544b92/): a quick fix to the broken Winfonet moosepop tool. Uploaded csv's must be in correct Winfonet format.
 
 ### Caribou
 
