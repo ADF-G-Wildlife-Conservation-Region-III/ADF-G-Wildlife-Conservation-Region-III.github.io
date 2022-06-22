@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to ADF&F Region III Biometrics!
+title: Welcome to ADF&F Region III Analytics!
 permalink: /about
 ---
 
