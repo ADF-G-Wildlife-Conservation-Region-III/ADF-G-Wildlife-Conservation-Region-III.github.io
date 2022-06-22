@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "Welcome to Region III Analytics!"
+author: "Carly Hammond"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+This site can be used to explore and navigate ADF&G DWC Region III analytical tools and resources. Select your species below to explore the relevant tools.
 
-## Getting Started
+## Moose
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+[Moose](http://rstudio-connect.adfg.alaska.gov/content/52f7e391-4a63-40bd-80ed-75d862544b92/)
 
 ## Example Content
 
