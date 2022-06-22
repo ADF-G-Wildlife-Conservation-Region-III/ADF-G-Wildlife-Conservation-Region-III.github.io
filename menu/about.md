@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Welcome to ADF&F Region III Biometrics!
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+This site will help you navigate the different data analysis tools and resources created for ADF&G DWC management and research projects. You *must* be connected to the ADF&G network to access these tools.
 
-### Getting Started
+### Moose
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+[Bandaid GSPE tool]([{{ site.github.url }}{% post_url 2015-10-10-getting-started %}](http://rstudio-connect.adfg.alaska.gov/content/52f7e391-4a63-40bd-80ed-75d862544b92/)): a quick fix to the broken Winfonet moosepop tool. Uploaded csv's must be in correct Winfonet format.
 
-### Example Content
+### Caribou
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+[Fortymile Herd Status]()
 
 ### Questions?
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+If you are having any problems, any questions or suggestions, feel free to  [file a GitHub issue](https://github.com/adf-g-wildlife-conservation-region-iii/adf-g-wildlife-conservation-region-iii.github.io/issues/new).
