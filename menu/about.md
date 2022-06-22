@@ -4,15 +4,8 @@ title: Welcome to ADF&F Region III Analytics!
 permalink: /about
 ---
 
-This site will help you navigate the different data analysis tools and resources created for ADF&G DWC management and research projects. You *must* be connected to the ADF&G network to access these tools.
+This site will help you navigate the different data analysis tools and resources created for ADF&G DWC management and research projects. At this time, you *must* be connected to the ADF&G network to access these tools.
 
-### Moose
-
-[Bandaid GSPE tool](http://rstudio-connect.adfg.alaska.gov/content/52f7e391-4a63-40bd-80ed-75d862544b92/): a quick fix to the broken Winfonet moosepop tool. Uploaded csv's must be in correct Winfonet format.
-
-### Caribou
-
-[Fortymile Herd Status]()
 
 ### Questions?
 
